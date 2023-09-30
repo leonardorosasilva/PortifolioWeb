@@ -1,0 +1,20 @@
+:root{
+
+  --backgroundDefaultBodyColor: #18181b;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+
+}
+body{
+    background: var(--backgroundDefaultBodyColor);
+}
+button, input, textarea {
+    font-size: 16px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
