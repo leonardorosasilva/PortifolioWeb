@@ -1,0 +1,13 @@
+
+
+.containerProfile{
+    width: 90vw;
+    height: 90vh;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.imgProfile{
+    border-radius: 50%;
+}

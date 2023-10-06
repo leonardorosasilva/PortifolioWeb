@@ -1,6 +1,8 @@
 :root{
 
   --backgroundDefaultBodyColor: #18181b;
+  --colorFontDefault: #e5e7eb;
+
 }
 * {
     margin: 0;
@@ -11,6 +13,7 @@
 }
 body{
     background: var(--backgroundDefaultBodyColor);
+    color: var(--colorFontDefault);
 }
 button, input, textarea {
     font-size: 16px;

@@ -23,7 +23,7 @@ export function Header(){
                 {/* Redes Sociais    */}
                 <nav>
                     <ul>
-                        <li>Linkdin</li>
+                        <li>LinkedIn</li>
                         <li>GitHub</li>
                         <li>Instagram</li>
                     </ul>
