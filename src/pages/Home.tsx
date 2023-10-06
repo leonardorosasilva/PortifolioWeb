@@ -1,4 +1,5 @@
 import { Header } from "../components/header/header";
+import { Experience } from "./Experience/Experience";
 import { Profile } from "./profile/profile";
 
 export function Home() {
@@ -13,6 +14,8 @@ export function Home() {
           }
           imgProfile={'https://avatars.githubusercontent.com/u/102049207?v=4'}
         />
+
+        <Experience />
       </main>
     </>
   );
